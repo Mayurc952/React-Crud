@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "mayur b chaudhari",
+      "username": "mayuch",
+      "email": "cmayur@gmail.com",
+      "phone": "8805963416",
+      "website": "www.google.com",
+      "id": 1
+    },
+    {
+      "name": "pykjm",
+      "username": "sgfg",
+      "email": "chaudhari952@gmail.com",
+      "phone": "888",
+      "website": "www.gdghdgh.com",
+      "id": 3
+    },
+    {
+      "name": "mayuresh",
+      "username": "mmm",
+      "email": "cgh@gmail.com",
+      "phone": "8805",
+      "website": "www.th",
+      "id": 5
+    }
+  ]
+}
